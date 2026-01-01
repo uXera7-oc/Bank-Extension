@@ -1,4 +1,4 @@
-# Bank 2 Project – Console Banking System with Transactions (C++)
+# Bank Extension – Console Banking System with Transactions (C++)
 
 This repository contains the **Bank 2 Project**, an extended **console-based banking system** written in **C++**, designed to manage client records and perform financial transactions.
 
