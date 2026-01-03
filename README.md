@@ -10,7 +10,7 @@ The project continues the practical application path based on
 ---
 
 ## 📂 Project Overview
-The **Bank 2 Project** follows the **Divide and Conquer principle**, where each operation is implemented in a **dedicated, reusable function**, ensuring clarity, maintainability, and scalability.
+The **Bank Extension** follows the **Divide and Conquer principle**, where each operation is implemented in a **dedicated, reusable function**, ensuring clarity, maintainability, and scalability.
 
 Client data is stored persistently using a text file:
 - **ClientsRecords.txt**
